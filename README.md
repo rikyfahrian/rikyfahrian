@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm riky fahrian</h1>
-<h3 align="center">passionate in Back End Environment especially in go</h3>
+<h3 align="center">passionate in Back End Environment especially in Go</h3>
 
 - 🌱 I’m currently learning **Currency in Go, some Framework**
 
